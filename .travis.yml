@@ -1,0 +1,5 @@
+language: shell
+
+script: cd Math
+script: ruby factorial.rb < input.txt
+
